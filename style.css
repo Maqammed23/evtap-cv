@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+thead{
+    background-color: rgb(40, 145, 197);
+}
+#a{
+    width: 50vw;
+}
+table{
+    margin-bottom: 20px;
+}
